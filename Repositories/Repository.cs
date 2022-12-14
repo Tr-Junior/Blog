@@ -9,6 +9,15 @@ namespace Blog.Repositories
 
         public Repository(SqlConnection connection) => _connection = connection;
 
-        public IEnumerable<TModel> Get() => _connection.GetAll<TModel>();
+        public List<TModel> Read() => _connection.GetAll<TModel>().ToList();
+
+        public TModel Read(int id) => _connection.Get<TModel>(id);
+
+        public void Create(TModel tmodel) => _connection.Insert<TModel>(tmodel);
+
+        public void Update(TModel tmodel) => _connection.Update<TModel>(tmodel);
+
+        public void Delete(TModel tmodel) => _connection.Delete<TModel>(tmodel);
+
     }
 }
