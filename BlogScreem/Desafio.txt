@@ -9,13 +9,8 @@ cadastrar um post
 Vincular um post a uma Tag
 
 Listar os usuarios (NOME, EMAILe e PERFIS separados por virgulas)
-
 Listar categorias com quantidade de posts
-
 Listar tags com quantidade de posts
-
 Listar os posts de uma categorias
-
 Listar todos os posts com sua categoria
-
 Listar os posts com suas tags (separadas por virgula)

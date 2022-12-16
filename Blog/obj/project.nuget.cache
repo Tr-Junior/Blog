@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k3TI3ifuo+wrtpKzUTBam/cRD4tthocPONlgPLSxZowUxXroMivnxn06jIp9PCLJ8LQtJAQpvs6dpX1HsSs9ig==",
+  "dgSpecHash": "Gx4a/NNVWGKQSeAwFLSpSJb6T0FjMlCW1yALFcBQZaG5tvx1fJLaZW9S7iKGPC0aGUVO/gT16xOkZPtkMaa86A==",
   "success": true,
-  "projectFilePath": "D:\\Junior\\Desktop\\Blog\\Blog.csproj",
+  "projectFilePath": "D:\\Junior\\Desktop\\Curso C#, Dapper e SQL Server\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\8xnec\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\8xnec\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

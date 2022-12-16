@@ -2636,11 +2636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Junior\\Desktop\\Blog\\Blog.csproj",
+      "projectUniqueName": "D:\\Junior\\Desktop\\Curso C#, Dapper e SQL Server\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "D:\\Junior\\Desktop\\Blog\\Blog.csproj",
+      "projectPath": "D:\\Junior\\Desktop\\Curso C#, Dapper e SQL Server\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\8xnec\\.nuget\\packages\\",
-      "outputPath": "D:\\Junior\\Desktop\\Blog\\obj\\",
+      "outputPath": "D:\\Junior\\Desktop\\Curso C#, Dapper e SQL Server\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\8xnec\\AppData\\Roaming\\NuGet\\NuGet.Config"
